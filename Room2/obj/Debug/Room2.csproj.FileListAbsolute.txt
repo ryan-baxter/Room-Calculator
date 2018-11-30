@@ -1,0 +1,10 @@
+I:\Documents\USB Files\Room2\Room2\bin\Debug\Room2.exe.config
+I:\Documents\USB Files\Room2\Room2\bin\Debug\Room2.exe
+I:\Documents\USB Files\Room2\Room2\bin\Debug\Room2.pdb
+I:\Documents\USB Files\Room2\Room2\obj\Debug\Room2.csprojResolveAssemblyReference.cache
+I:\Documents\USB Files\Room2\Room2\obj\Debug\Room2.Form1.resources
+I:\Documents\USB Files\Room2\Room2\obj\Debug\Room2.Properties.Resources.resources
+I:\Documents\USB Files\Room2\Room2\obj\Debug\Room2.csproj.GenerateResource.Cache
+I:\Documents\USB Files\Room2\Room2\obj\Debug\Room2.csproj.CoreCompileInputs.cache
+I:\Documents\USB Files\Room2\Room2\obj\Debug\Room2.exe
+I:\Documents\USB Files\Room2\Room2\obj\Debug\Room2.pdb
